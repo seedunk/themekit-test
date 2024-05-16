@@ -1,5 +1,5 @@
 node_modules
-dist
+.themekit/dist
 dist-ssr
 cache
 .cache
