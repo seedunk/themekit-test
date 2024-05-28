@@ -31,7 +31,7 @@ const ThemeConfigEn ={
  
 export default defineConfig({
   title: "Seedunk",  
-  base:"/dist/",
+  base:"/themekit-test/",
   themeName: "default theme + customization",
   description: "A VitePress Site",
   lang:"root",
