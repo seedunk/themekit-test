@@ -1,7 +1,7 @@
-{ "devDependencies": {
-   
-  "themekit-js": "^1.1.3"  
-},
+{
+  "dependencies": { 
+     "themekit-js": "^1.1.4"
+  },
   "scripts": {
     "docs:dev": "themekit-js dev",
     "docs:build": "themekit-js build",
