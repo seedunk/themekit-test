@@ -14,7 +14,6 @@
 <!--Hero #-->
 
 
-# asdasdasd
-  ![](bg.jpg)
+[![](/Resources/icon/github.svg?class=icon)Themekit-JS](https://github.com/seedunk/com.seedunk.themekit-js/?class=btn%20alt)
 
   
